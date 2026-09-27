@@ -10,6 +10,8 @@ public class Char01 {
 class CharDetail {
 	public static void main(String[] args) {
 		char c1 = 97;
+		int i = 97;
+		System.out.println(i);
 
 		System.out.println(c1);
 		char c2 = 'a';
